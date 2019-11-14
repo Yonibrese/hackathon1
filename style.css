@@ -50,7 +50,7 @@ ul.nav.navbar-nav{
 }
 
 #home{
-	background-image: url("./photos/logo.jpg");
+	background-image: url("./photos/logo.JPG");
 	height:90vh ;
 	background-size: cover;
 }
